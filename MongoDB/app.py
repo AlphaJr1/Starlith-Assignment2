@@ -36,7 +36,7 @@ def get_data():
             "temperature": 1, 
             "humidity": 1, 
             "motion": 1, 
-            "distance": 1,  # **Tambahkan field distance**
+            "distance": 1,
             "timestamp": 1
         }))
 
